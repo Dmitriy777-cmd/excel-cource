@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/Dmitriy777-cmd/excel-cource/issues"
   },
-  "homepage": "https://github.com/Dmitriy777-cmd/excel-cource#readme"
+  "homepage": "https://github.com/Dmitriy777-cmd/excel-cource#readme",
+  "private": "true"
 }
