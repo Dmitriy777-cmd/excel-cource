@@ -1,0 +1,24 @@
+{
+  "name": "excel-cource",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitriy777-cmd/excel-cource.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Dmitriy Sorokin <nikito19802011@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitriy777-cmd/excel-cource/issues"
+  },
+  "homepage": "https://github.com/Dmitriy777-cmd/excel-cource#readme"
+}
