@@ -12,6 +12,9 @@
     "comma-dangle": "off",
     "require-jsdoc": "off",
     "quotes": "off",
-    "linebreak-style": "off"
+    "linebreak-style": "off",
+    "object-curly-spacing": "off",
+    "operator-linebreak": "off",
+    "indent": "off"
   }
 }
