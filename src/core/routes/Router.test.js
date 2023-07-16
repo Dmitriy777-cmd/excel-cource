@@ -22,6 +22,10 @@ describe("Router:", () => {
     });
   });
 
+  /**
+   * @jest-environment jsdom
+   */
+
   test("should be defined", () => {
     expect(router).toBeDefined();
   });
